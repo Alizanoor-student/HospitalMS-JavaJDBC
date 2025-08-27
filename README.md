@@ -1,9 +1,11 @@
- Hospital Management System - Java Console App with MySQL:
+🏥 Hospital Management System - Java Console App with MySQL
+
+
 
 This is a console-based Hospital Management System, built in Java, using OOP principles and JDBC for MySQL database connectivity.
 It allows management of patients, doctors, and appointments, simulating a real hospital backend system.
 
- Key Features
+✨ Key Features
 
 Add, view, and manage patients
 
@@ -15,7 +17,7 @@ Persistent MySQL database storage
 
 Clean console interface with tabular output
 
- Concepts & Skills Used
+💡 Concepts & Skills Used
 
 Java OOP: classes, objects, methods
 
@@ -27,7 +29,7 @@ Conditionals, Loops, and Exception Handling
 
 Console input using Scanner
 
- Technologies Used
+🛠 Technologies Used
 
 Java (JDK 8+)
 
